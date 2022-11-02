@@ -7,8 +7,8 @@ The following Data Visualization was performed by **Alan Rial** (https://www.lin
 As a new Canadian, I was curious to see which country most immigrants come from, what's the gender and age distribution of the new Canadians, and how the trends changed in the last 30 years. I used my curiosity as an opportunity to practice Data Visualization with Tableau & Data Wrangling with Excel.
 
 ## Tools
-1) Microsoft Excel
-2) Tableau 
+- Microsoft Excel
+- Tableau 
 
 ## Steps
 1) Data Sourcing
