@@ -4,7 +4,7 @@
 The following Data Visualization was performed by **Alan Rial** (https://www.linkedin.com/in/alan-rial/), and was finalized on 10/30/2022. 
 
 ## Objective
-As an new Canadian, I was curious to see which country most immigrants come from, what's the gender and age distribution of the new Canadians, and how the trends changed in the last 30 years. I used my curiosity as an opportunity to practice Data Visualization with Tableau & Data Wrangling with Excel.
+As a new Canadian, I was curious to see which country most immigrants come from, what's the gender and age distribution of the new Canadians, and how the trends changed in the last 30 years. I used my curiosity as an opportunity to practice Data Visualization with Tableau & Data Wrangling with Excel.
 
 ## Tools
 1) Microsoft Excel
